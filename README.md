@@ -1,2 +1,12 @@
-# Synapz-group
-SYNAPZ — The world’s first AI-driven meme intelligence network built on Solana. Merging artificial intelligence, robotics, and community-driven evolution into a self-learning ecosystem.
+🧠 Recommended GitHub Repository Description
+
+SYNAPZ — The world’s first AI-driven meme intelligence network built on Solana.
+Merging artificial intelligence, robotics, and community-driven evolution into a self-learning ecosystem.
+
+🌐 Website: https://synapz.ai
+
+📜 Whitepaper: https://synapz.ai/whitepaper.pdf
+
+💬 Community: https://t.me/SYNAPZOFFICAL
+
+🐦 Twitter: https://x.com/SYNAPZ_DEV
